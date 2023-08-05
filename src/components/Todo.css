@@ -1,0 +1,51 @@
+.todo {
+  min-width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  min-width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  min-width: 100%;
+  margin-top: 30px;
+}
+
+.title > h1 {
+  background: #e14d3f;
+  background: linear-gradient(to right, #da1200 0%, #d15e25 50%, #ffd500 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 100px;
+  text-align: center;
+  font-family: Rubik;
+  font-weight: bold;
+}
+
+.input{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+ 
+}
+
+.text_field{
+  width:300px;
+  display: flex;
+
+}
+
+     
+    
+
+
