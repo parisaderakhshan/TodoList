@@ -4,6 +4,10 @@ export const themeConfig = {
       main: "#DD3071",
       contrastText: "white",
     },
+    blue: {
+      main: "#A9DDF8",
+      contrastText: "black",
+    },
 
     secondary: {
       main: "#3E3E3E",
@@ -38,7 +42,5 @@ export const themeConfig = {
       main: "#5CBA94",
       contrastText: "white",
     },
-
-
   },
 };
